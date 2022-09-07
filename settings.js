@@ -47,7 +47,7 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
+global.owner = ['+94741528680']
 global.ownertag = '+380944814219' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94741528680'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -119,7 +119,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [හායී ඔයාව සාදරයෙන් පිළිගන්නවා අපගේ සමූහයට]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
